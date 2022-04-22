@@ -15,9 +15,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🛠️ I’m currently working on <a href= http://thebarcode.io> The Barcode </a>
+- 🛠️ I’m currently working on <a href= https://github.com/TheBarcodeProject> The Barcode </a>
 
-- 🌱 I’m currently learning d3.js, Spark and AWS
+- 🌱 I’m currently learning d3.js, Spark and dbt
 
 - 👾 I’m looking to collaborate on open source projects 
 
